@@ -11,10 +11,13 @@
     "react-native": "0.57.0-rc.3"
   },
   "devDependencies": {
+    "@types/react": "^16.4.13",
+    "@types/react-native": "^0.56.15",
     "babel-jest": "23.4.2",
     "jest": "23.5.0",
     "metro-react-native-babel-preset": "^0.43.5",
-    "react-test-renderer": "16.4.1"
+    "react-test-renderer": "16.4.1",
+    "typescript": "^3.0.3"
   },
   "jest": {
     "preset": "react-native"
